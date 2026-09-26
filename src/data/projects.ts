@@ -33,7 +33,7 @@ export const projects: Project[] = [
   },
   {
     id: "hackathon-project-team-lead",
-    title: "Hackathon Project — Team Lead",
+    title: "Hackathon Project — Team Lead | Top 30 Finalist",
     description: "Led a team to a Top 30 finalist position in a competitive hackathon, overseeing problem analysis, solution design, and backend implementation for a real-world software solution.",
     tags: ["Team Leadership", "Backend Development", "AI-Assisted Coding", "Problem Solving", "Software Implementation"],
     impact: "Successfully led a team to deliver a functional backend solution, achieving recognition as a Top 30 finalist.",

@@ -27,6 +27,8 @@ export default function StructuredData() {
         "Object-Oriented Programming (OOP)",
         "DBMS",
         "Computer Networks",
+        "Operating Systems",
+        "Software Engineering",
         "Git",
         "GitHub",
         "VS Code"
