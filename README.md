@@ -89,7 +89,7 @@
 
 **Bishwjeet Das**
 - **GitHub**: 
-- **Role**: Software Developer Intern
+- **Role**: Software Developer
 
 ---
 

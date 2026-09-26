@@ -8,7 +8,7 @@ export default function StructuredData() {
       "@context": "https://schema.org",
       "@type": "Person",
       name: "Bishwjeet Das",
-      jobTitle: "Software Developer Intern",
+      jobTitle: "Software Developer",
       description: "B.Tech Information Technology student with a strong foundation in C++, Data Structures & Algorithms, and practical web development skills.",
       url: "https://www.linkedin.com/in/bishwjeetHitk",
       sameAs: [
